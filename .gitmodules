@@ -1,3 +1,6 @@
 [submodule "demo"]
 	path = demo
 	url = https://github.com/cpt-jenning/demo.git
+[submodule "scheduler"]
+	path = scheduler
+	url = https://github.com/cpt-jenning/scheduler.git
